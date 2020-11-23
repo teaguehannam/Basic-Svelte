@@ -16,3 +16,4 @@ Create optimized build
 ``` console
 npm run build
 ```
+Public directory is public/
