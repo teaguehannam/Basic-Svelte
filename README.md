@@ -1,4 +1,4 @@
-# Basic Svelte App
+# Svelte State Management
 
 #### Setup
 ``` console
