@@ -17,3 +17,5 @@ Create optimized build
 npm run build
 ```
 Publish directory is public/
+### ToDo
+- Add methods to stores
